@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @skar-sc
 - 👀 I’m interested in coding, data science, 2d visualisation and 3d visualisation
-- 💞️ I’m looking to collaborate on nothing for now as I am just a beginner
 
 <!---
 skar-sc/skar-sc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
